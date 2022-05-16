@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on refining the projects in my portfolio.
 -->
 
-#Languages and Tools
+### Languages and Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-- 📫 How to reach me:
+### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/justin-chau-1123a9142/">
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>

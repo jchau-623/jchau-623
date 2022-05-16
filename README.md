@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 - 🔭 I’m currently working on refining the projects in my portfolio.
+-->
+
 
 - 📫 How to reach me:
 <a href="https://www.linkedin.com/in/justin-chau-1123a9142/">

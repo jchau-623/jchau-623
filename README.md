@@ -13,22 +13,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on refining the projects in my portfolio.
 -->
 
-
-- 📫 How to reach me:
-<a href="https://www.linkedin.com/in/justin-chau-1123a9142/">
-  <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://jchau-623.github.io/">
-   <img align="left"src="https://img.shields.io/badge/Portfolio-8C1EFF?style=for-the-badge&logo=website&logoColor=white" />
-</a>
-<a href="https://angel.co/u/justin-chau-3">
-   <img align="left"  src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" />
-</a>
-<a href="mailto:jchau623@gmail.com">
-   <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-- #Languages and Tools
+#Languages and Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -53,3 +38,18 @@ Here are some ideas to get you started:
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+- 📫 How to reach me:
+<a href="https://www.linkedin.com/in/justin-chau-1123a9142/">
+  <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://jchau-623.github.io/">
+   <img align="left"src="https://img.shields.io/badge/Portfolio-8C1EFF?style=for-the-badge&logo=website&logoColor=white" />
+</a>
+<a href="https://angel.co/u/justin-chau-3">
+   <img align="left"  src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" />
+</a>
+<a href="mailto:jchau623@gmail.com">
+   <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
